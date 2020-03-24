@@ -5,7 +5,7 @@ public class Test {
 
     /**
      * 一个人爬楼梯，一步可以迈一级，二级，三级台阶， 如果楼梯有N级，编写程序，输出所有走法。java实现。
-     *
+     *.....
      * @param args
      */
     public static void main(String[] args) {
